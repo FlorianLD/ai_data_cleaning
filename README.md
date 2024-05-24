@@ -17,11 +17,11 @@ In each cell, the following information can be found, in a random order:
 
 The data structure is intentionnally diverse for a more challenging test case.
 
-![Test](/screenshot.png)
+![Material](/material.png)
 
 By using models and passing them in the `response_model` parameter of the function, the following output can be obtained
 
-![Test](/data_clean.png)
+![Final](/final_output.png)
 
 Model used:
 ```
