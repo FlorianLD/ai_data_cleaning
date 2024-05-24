@@ -23,7 +23,7 @@ By using models and passing them in the `response_model` parameter of the functi
 
 ![Test](/data_clean.png)
 
-Models used:
+Model used:
 ```
 class Premium(Enum):
     """Defines the type of account of the customer, either premium or non-premium"""
