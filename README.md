@@ -1,5 +1,4 @@
-# ai_data_cleaning
-
+# About
 
 Data cleaning experiment with OpenAI [chat completion API](https://platform.openai.com/docs/guides/text-generation/chat-completions-api) and the [Instructor](https://python.useinstructor.com/) library.<br>
 The objective was to see how pydantic models can be leveraged to clean data and ensure a structured output consistently.<br>
